@@ -2,6 +2,7 @@ body{
     display:grid;
     margin: 0;
     padding: 0;
+    zoom: 110%;
 }
 
 header nav{
@@ -41,7 +42,7 @@ li a{
 }
 
 .headCenter{
-    background-image: url('./contentMedia/imageOfPresentationTwo.jpg');
+    background-image: url('./contentMedia/Centro_de_Servicios_de_Salud.jpg');
     width: auto;
     height:800px;
 }
