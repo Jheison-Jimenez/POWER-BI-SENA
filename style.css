@@ -1,0 +1,81 @@
+body{
+    display:grid;
+    margin: 0;
+    padding: 0;
+}
+
+header nav{
+    display: grid;
+    width: auto;
+    height: 100px;
+    display: grid;
+}
+
+ul{
+    display: flex;
+    color: rgb(0, 0, 0);
+    list-style-type: none;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: flex-end;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+li a{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(0, 155, 28);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.iconPowerBi{
+    width: 80px;
+}
+
+.iconSena{
+    width: 50px;
+}
+
+.headCenter{
+    background-image: url('./contentMedia/imageOfCentePort.jpg');
+    width: auto;
+    height:800px;
+}
+
+
+.info{
+    display: grid;
+    width: auto;
+    height: 300px;
+    padding: 50px;
+    justify-content: center;
+}
+
+
+.textDescription{
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    background: black;
+    color: white;
+    width: auto;
+    height: 300px;
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    background: none;
+    border: 0px;
+    cursor: pointer;
+}
+
