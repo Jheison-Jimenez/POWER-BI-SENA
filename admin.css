@@ -53,3 +53,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+#btnPowerBi{
+    background: none;
+    border: 0px;
+    cursor: pointer;
+}

@@ -86,3 +86,12 @@ a:hover {
     text-decoration: underline;
 }
 
+tbody{
+    font-size: 0.7rem;
+}
+
+#btnPowerBi{
+    background: none;
+    border: 0px;
+    cursor: pointer;
+}
